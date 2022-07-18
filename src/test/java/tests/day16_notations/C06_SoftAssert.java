@@ -9,7 +9,7 @@ import org.testng.asserts.SoftAssert;
 import utilities.TestBase;
 
 public class C06_SoftAssert extends TestBase {
-    @Test
+    @Test(groups = "grup2")
     public void test01() {
         SoftAssert softAssert=new SoftAssert();
         driver.get("https://www.amazon.com");

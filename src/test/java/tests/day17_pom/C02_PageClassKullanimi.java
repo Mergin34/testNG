@@ -1,4 +1,4 @@
-package tests.day16_pom;
+package tests.day17_pom;
 
 import org.junit.Assert;
 import org.openqa.selenium.Keys;
