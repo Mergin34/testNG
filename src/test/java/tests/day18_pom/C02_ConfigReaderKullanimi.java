@@ -1,6 +1,6 @@
 package tests.day18_pom;
 
-import org.junit.Assert;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.FacebookPage;
 import utilities.ConfigReader;

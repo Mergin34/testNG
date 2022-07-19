@@ -1,6 +1,6 @@
 package tests.day21_reusableMethods_HtmlReports;
 
-import org.junit.Assert;
+import org.testng.Assert;
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 import utilities.Driver;

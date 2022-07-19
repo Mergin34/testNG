@@ -1,6 +1,6 @@
 package tests.day17_pom;
 
-import org.junit.Assert;
+import org.testng.Assert;
 import org.openqa.selenium.Keys;
 import org.testng.annotations.Test;
 import pages.AmazonPage;

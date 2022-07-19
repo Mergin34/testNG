@@ -27,7 +27,7 @@ public abstract class TestBaseRapor {
         extentReports.setSystemInfo("Enviroment","QA");
         extentReports.setSystemInfo("Browser", ConfigReader.getProperty("browser")); // chrome, firefox
         extentReports.setSystemInfo("Automation Engineer", "Samet");
-        extentHtmlReporter.config().setDocumentTitle("Pozitif LogIn Test");
+        extentHtmlReporter.config().setDocumentTitle("Rapor");
         extentHtmlReporter.config().setReportName("TestNG Reports");
     }
     // Her test methodundan sonra eğer testte hata varsa, ekran görüntüsü alıp rapora ekliyor

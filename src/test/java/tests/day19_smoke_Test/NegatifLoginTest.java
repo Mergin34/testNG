@@ -1,6 +1,6 @@
 package tests.day19_smoke_Test;
 
-import org.junit.Assert;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.BrcPage;
 import utilities.ConfigReader;
